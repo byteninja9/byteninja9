@@ -6,7 +6,7 @@
 
 - 🚀 I’m currently working on **Development**
 
--🛡️ I’m currently learning **Cyber Security**
+- 🛡️ I’m currently learning **Cyber Security**
 
 - 🚀 Ask me about **Hacking , Dev**
 
