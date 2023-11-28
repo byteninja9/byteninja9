@@ -1,4 +1,4 @@
-[![MasterHead](https://w.wallhaven.cc/full/3z/wallhaven-3zxp39.png)]
+[MasterHead](https://w.wallhaven.cc/full/3z/wallhaven-3zxp39.png)
 <h1 align="center">Hi 👋, I'm Samson Tesfaye</h1>
 <h3 align="center">🛡️I'm FullStack Developer and Ethical Hacker from Ethiopia</h3>
 
