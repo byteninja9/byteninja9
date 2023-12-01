@@ -1,4 +1,4 @@
-[MasterHead](https://wallpaperaccess.com/full/1096890.png)
+![MasterHead](https://wallpaperaccess.com/full/1096890.png)
 <h1 align="center">Hi 👋, I'm Samson Tesfaye</h1>
 <h3 align="center">🛡️I'm FullStack Developer and Ethical Hacker from Ethiopia</h3>
 
