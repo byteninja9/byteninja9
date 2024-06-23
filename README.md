@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=NegusTech&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrsamiofficial9&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About Me:
 #### Hi, I'm Samson Tesfaye from Ethiopia🇪🇹, a passionate programmer and cyber security researcher dedicated to building secure and innovative software solutions.
