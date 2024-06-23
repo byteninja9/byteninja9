@@ -5,8 +5,8 @@
 
 ## Social Media: 📡  
 - Join Us On: <br>
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/negustechnologies)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/negustechnologies)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mrsamiofficial9)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrsamiofficial9)
 
 
 
@@ -61,7 +61,7 @@
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=NegusTech&theme=gotham&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=mrsamiofficial9&theme=gotham&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
@@ -71,14 +71,14 @@
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=NegusTech&show_icons=true&theme=gotham">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NegusTech&size_weight=0.15&count_weight=0.5&layout=compact&theme=gotham">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=mrsamiofficial9&show_icons=true&theme=gotham">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsamiofficial9h&size_weight=0.15&count_weight=0.5&layout=compact&theme=gotham">
 </p>
  
 
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=NegusTech&style=for-the-badge&color=brightgreen" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=mrsamiofficial9&style=for-the-badge&color=brightgreen" alt=""/>
 </div>
 
 <p align="center">
