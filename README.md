@@ -4,15 +4,15 @@
 #### Hi, I'm Samson Tesfaye from Ethiopia🇪🇹, a passionate programmer and cyber security researcher dedicated to building secure and innovative software solutions.
 
 ## Social Media: 📡  
-- Join Us On: <br>
+- Don't Forget Follow Me On: <br>
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mrsamiofficial9)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrsamiofficial9)
 
 
 
 ## Working On: 🚀
-| ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=Cyber%20Security&logoColor=white)|![AI AUTOMATION](https://img.shields.io/badge/AI%20Automation-000000?style=for-the-badge&logo=AI%20Automation&logoColor=white)|![Front-end Development](https://img.shields.io/badge/Software%20Development-000000?style=for-the-badge&logo=Software%20Development&logoColor=white) | [![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-000000?style=for-the-badge&logo=Embedded%20Systems&logoColor=white)](https://github.com/NegusTech/Embedded-Systems)| ![Graphic Design](https://img.shields.io/badge/Graphic%20Design-000000?style=for-the-badge&logo=Graphic%20Design&logoColor=white)|
-|----------|----------|----------|----------|----------|
+| ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=Cyber%20Security&logoColor=white)|![Front-end Development](https://img.shields.io/badge/Software%20Development-000000?style=for-the-badge&logo=Software%20Development&logoColor=white) | ![Graphic Design](https://img.shields.io/badge/Graphic%20Design-000000?style=for-the-badge&logo=Graphic%20Design&logoColor=white)|
+|----------|----------|----------|
 
 
 
