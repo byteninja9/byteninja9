@@ -12,7 +12,7 @@
 
 ## Working On: 🚀
 | ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=Cyber%20Security&logoColor=white)|![Front-end Development](https://img.shields.io/badge/Software%20Development-000000?style=for-the-badge&logo=Software%20Development&logoColor=white) | ![Graphic Design](https://img.shields.io/badge/Graphic%20Design-000000?style=for-the-badge&logo=Graphic%20Design&logoColor=white)|![Music Production](https://img.shields.io/badge/Music%20Production-000000?style=for-the-badge&logo=Music%20Production&logoColor=blue)|
-|----------|----------|----------|
+|----------|----------|----------|----------|
 
 
 
