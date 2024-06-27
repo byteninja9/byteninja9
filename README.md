@@ -1,7 +1,7 @@
 <p align="center">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
     <a href="http://jrohit.com.np" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=jrohitofficial&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=mrsammiofficial9&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
 </p>
 
