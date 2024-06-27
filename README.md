@@ -55,8 +55,8 @@
   <a href="https://www.linux.org" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="Linux" width="25" height="25" />
   </a>
-  <a href="https://www.apple.com/macos/sonoma/" target="_blank">
-    <img src="https://www.svgrepo.com/show/349442/macos.svg" alt="macOS" width="25" height="25" />
+  <a href="https://www.microsoft.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="https://www.microsoft.com/" width="25" height="25" />
   </a>
 </p>
 
@@ -165,8 +165,8 @@
       <br>WordPress
     </td>
               <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt="Vue" />
-      <br>Dotnet
+        <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="40" height="40" alt="Vue" />
+      <br>Blender
   <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="icon" width="40" height="40" />
@@ -191,24 +191,10 @@
 
 
   
-### Environments, Testing, Other:
-
-| nodejs | Git | Docker | Pytest | Swagger | Postman | Virtual Box| HardHat |
-|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="80" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Swagger" alt="Swagger" width="55" height="55"/>
 
 
-### OS: ❤️ 
-
-| Linux |  Kali | Windows | 
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | 
 
 
-### Technologies:
-| Photoshop | Blender | Android Studio | YAML | JSON | Vscode | Pycharm | Clion | Datagrip | Gitlab | Confluence | Jira | Azure |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="ssh" alt="ssh" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="xml" alt="xml" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="yaml" alt="yaml" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" alt="json" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsc" alt="vsc" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PC" alt="PC" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="cl" alt="CL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="dg" alt="dg" width="55" height="55"/>  |<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="55" height="55"/>
 
 </div>
 
