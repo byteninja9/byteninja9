@@ -185,12 +185,6 @@
 </table>
 <br><br>
 </table>
-<p align="center">
-    <a href="#">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrsamiofficial9&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
-    </a>
-</p>
-
 
 <p align="center">
     <a href="https://github.com/jrohitofficial/jrohitofficial">
@@ -243,6 +237,11 @@
 </div>
 
 ---
+<p align="center">
+    <a href="#">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrsamiofficial9&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+    </a>
+</p>
 
   
 <p align="center">
