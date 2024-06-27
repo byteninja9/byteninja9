@@ -1,7 +1,4 @@
 <p align="center">
-  <a href="http://jrohit.com.np" target="_blank">
-        <img alt="http://readme-typing-svg.demolab.com" width="150" src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2.png?raw=true">
-    </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
     <a href="http://jrohit.com.np" target="_blank">
         <img src="https://github-widgetbox.vercel.app/api/profile?username=jrohitofficial&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
