@@ -1,7 +1,7 @@
 <p align="center">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    <a href="https://github.com/mrsamioffcial9" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=mrsammiofficial9&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+    <a href="https://github.com/mrsamiofficial9" target="_blank">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=mrsamiofficial9&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
 </p>
 
