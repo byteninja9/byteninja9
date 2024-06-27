@@ -1,4 +1,12 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrsamiofficial9&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="http://jrohit.com.np" target="_blank">
+        <img alt="http://readme-typing-svg.demolab.com" width="150" src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2.png?raw=true">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
+    <a href="http://jrohit.com.np" target="_blank">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=jrohitofficial&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+    </a>
+</p>
 
 ## About Me:
 #### Hi, I'm Samson Tesfaye from Ethiopia🇪🇹, a passionate programmer and cyber security researcher dedicated to building secure and innovative software solutions.
