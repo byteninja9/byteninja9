@@ -1,7 +1,7 @@
 <p align="center">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    <a href="https://github.com/mrsamiofficial9" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=mrsamiofficial9&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+    <a href="https://github.com/byteninja9" target="_blank">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=byteninja9&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
 </p>
 
@@ -10,8 +10,8 @@
 
 ## Social Media: 📡  
 - Don't Forget Follow Me On: <br>
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mrsamiofficial9)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrsamiofficial9)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/byteninja9)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/byteninja9)
 
 
 
@@ -188,7 +188,7 @@
 
 <p align="center">
     <a href="https://github.com/jrohitofficial/jrohitofficial">
-        <img src="https://github-profile-trophy.vercel.app/?username=mrsamiofficial9&column=-1&theme=dracula&layout=compact"width="95%"/> 
+        <img src="https://github-profile-trophy.vercel.app/?username=byteninja9&column=-1&theme=dracula&layout=compact"width="95%"/> 
 </p>
 
 
@@ -239,13 +239,13 @@
 ---
 <p align="center">
     <a href="#">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrsamiofficial9&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=byteninja9&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
     </a>
 </p>
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=mrsamiofficial9&theme=gotham&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=byteninja9&theme=gotham&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
@@ -255,14 +255,14 @@
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=mrsamiofficial9&show_icons=true&theme=gotham">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsamiofficial9&size_weight=0.15&count_weight=0.5&layout=compact&theme=gotham">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=byteninja9&show_icons=true&theme=gotham">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byteninja9&size_weight=0.15&count_weight=0.5&layout=compact&theme=gotham">
 </p>
  
 
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrsamiofficial9&style=for-the-badge&color=brightgreen" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=byteninja9&style=for-the-badge&color=brightgreen" alt=""/>
 </div>
 
 <p align="center">
@@ -272,4 +272,4 @@
 
 
 ### How To Reach Me :
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/mrsamiofficial9)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/byteninja9)
