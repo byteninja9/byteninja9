@@ -220,7 +220,6 @@
 #### 🅓🅐🅣🅐 🅑🅐🅢🅔 / 🅢🅣🅐🅣🅔
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge&logo=mobx)
 
 #### 🅥🅔🅡🅢🅘🅞🅝 🅒🅞🅝🅣🅡🅞🅛
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
