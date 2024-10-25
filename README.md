@@ -143,15 +143,7 @@ me.say_hi()
 
 
 <p align="right">
-<a href="https://github.com/coffinxp/lostools.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coffinxp&repo=lostools&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
-<a href="https://github.com/haxurn/3PleB.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haxurn&repo=3PleB&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
-<a href="https://github.com/haxurn/alltool.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haxurn&repo=alltool&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
-<a href="https://github.com/haxurn/xopy.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haxurn&repo=xopy&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
-<a href="https://haxurn.github.io/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haxurn&repo=portfolio&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
-<!-- <a href="https://github.com/haxurn/cantc.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haxurn&repo=cantc&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a> -->
-<a href="https://github.com/haxurn/haq.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haxurn&repo=haq&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
-<a href="https://haxurn.github.io/guts.ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haxurn&repo=guts.ai&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
-<a href="https://haxurn.github.io/website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haxurn&repo=website&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
+<a href="https://github.com/haxurn/dotfiles.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haxurn&repo=dotfiles&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
 </p>
 
 </div>
