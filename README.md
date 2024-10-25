@@ -12,7 +12,7 @@
 <!-- Name Banner -->
 <p align="center">
   <a href="https://github.com/haxurn">
-    <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMzUsInciOjEyNTAsImZzIjoxMDgsImZnYyI6IiNFN0NGQUEiLCJiZ2MiOiIjMDAwMDAwIiwidCI6MX0/SmhlaGFxIA/karasha.png" alt="1hehaq" width="400">
+    <img src="https://see.fontimg.com/api/rf5/z8Ev3/NTU1YmQ3ZWU0MWIwNDQxMWEwYWE1YzAwOTNjMWQ3NTIudHRm/SGF4dXJu/crotah-free-version-italic.png" alt="haxurn" width="400">
   </a>
 </p>
 
