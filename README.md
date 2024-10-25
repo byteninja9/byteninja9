@@ -144,6 +144,7 @@ me.say_hi()
 
 <p align="right">
 <a href="https://github.com/haxurn/dotfiles.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haxurn&repo=dotfiles&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
+<a href="https://github.com/haxurn/pentest-toolkit.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haxurn&repo=pentest-toolkit&theme=dark&title_color=E7CFAA&icon_color=E7CFAA&text_color=E7CFAA&bg_color=1e1e1e"/></a>
 </p>
 
 </div>
