@@ -199,7 +199,7 @@ me.say_hi()
   <a href="https://x.com/haxurn"><img src="https://img.shields.io/badge/haxurn-1DA1F2?style=for-the-badge&logo=X&logoColor=E7CFAA&color=000000" alt="Twitter" /></a>
   <a href="https://www.instagram.com/haxurn" target="_blank"><img src="https://img.shields.io/badge/haxurn-E4405F?style=for-the-badge&logo=instagram&logoColor=E7CFAA&color=000000" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/haxurn"><img src="https://img.shields.io/badge/haxurn-0077B5?style=for-the-badge&logo=linkedin&logoColor=E7CFAA&color=000000" alt="LinkedIn" /></a>
-  <a href="https://t.me/th3haq"><img src="https://img.shields.io/badge/th3haq-12100E?style=for-the-badge&logo=telegram&logoColor=E7CFAA&color=000000" alt="Telegram" /></a>
+  <a href="https://t.me/haxurn"><img src="https://img.shields.io/badge/haxurn-12100E?style=for-the-badge&logo=telegram&logoColor=E7CFAA&color=000000" alt="Telegram" /></a>
 </p>
 
 <br>
