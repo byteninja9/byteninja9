@@ -13,7 +13,6 @@
 <p align="center">
   <a href="https://github.com/haxurn">
     <a href="https://www.fontspace.com/category/banner"><img src="https://see.fontimg.com/api/rf5/z8Ev3/NTU1YmQ3ZWU0MWIwNDQxMWEwYWE1YzAwOTNjMWQ3NTIudHRm/SGF4dXJu/crotah-free-version-italic.png?r=fs&h=153&w=1000&fg=515105&bg=FFFFFF&tb=1&s=153" alt="Banner fonts"></a>
-  </a>
 </p>
 
 <!-- Follow Buttons -->
