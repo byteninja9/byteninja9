@@ -42,7 +42,7 @@ class SecurityResearcher:
     def __init__(self):
         self.name = "Samson Tesfaye"
         self.role = "Security Researcher, Software Developer"
-        self.language_spoken = ["ml_IN", "en_US"]
+        self.language_spoken = ["am_ET", "en_US", "or_ET"]
         self.portfolio = "https://haxurn.github.io/portfolio"
 
     def say_hi(self):
